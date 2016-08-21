@@ -1,4 +1,4 @@
-# CapitalAssetPricingModel
+
 
 # The Capital Asset Pricing Model (CAPM)
 ###By Chris Preuss
